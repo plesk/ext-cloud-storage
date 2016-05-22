@@ -8,7 +8,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.provider "virtualbox" do |v|
     v.memory = 1024
-    v.name = "plesk-12.5"
+    v.name = "ext-cloud-storage"
   end
 
   config.ssh.insert_key = false

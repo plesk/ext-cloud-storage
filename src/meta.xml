@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-  <id>ext-stub</id>
-  <name>Module ext-stub</name>
-  <description>Add module description here...</description>
+  <id>cloud-storage</id>
+  <name>Cloud Storage</name>
+  <description>This Plesk extension allows to integrate Cloud Storage solutions to user's webspace with a "cloud disk" like Dropbox, Google Drive, OneDrive, etc. Additionally, the extension should be integrated with Auth mechanisms. If a user is already logged in he can easily link his webspace/s with his Cloud disks.</description>
   <version>1.0</version>
   <release>1</release>
-  <vendor>admin</vendor>
-  <url>http://your-company-web-site</url>
-  <plesk_min_version>12.0</plesk_min_version>
+  <vendor>WHD.usa</vendor>
+  <url>http://hackathon.whd.global/</url>
+  <plesk_min_version>12.5</plesk_min_version>
+  <os>unix</os>
 </module>
