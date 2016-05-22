@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>ext-stub</id>
+  <name>Module ext-stub</name>
+  <description>Add module description here...</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor>admin</vendor>
+  <url>http://your-company-web-site</url>
+  <plesk_min_version>12.0</plesk_min_version>
+</module>
